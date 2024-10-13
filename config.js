@@ -47,5 +47,14 @@ window.config = {
     open: 1, //0-关闭兑换码功能，1-开启
     title: '没有兑换码？ 点我购买',
     url: 'https://跨越长城.com',
-  }
+  },
+  // 知识库需要展示视频的知识库ID，和视频URL
+  videoList: [
+    {
+      id: 1, url: '/download/video/ios.mp4'
+    },
+    {
+      id: 6, url: '/download/video/ios.mp4'
+    },
+  ],
 }
