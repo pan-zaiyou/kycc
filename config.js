@@ -4,7 +4,7 @@ window.config = {
   host: "https://xn--wgv9cz54cexz.com", // 后端接口地址
   title: "跨越长城", // 网站标题
   logo: '/static/img/logo6.svg', // 网站logo
-  logo2: '', // 网站logo
+  logo2: '/static/img/logo6.svg', // 网站logo
   language: 'zh', //设置默认访问语言：zh, en
   crisp: '0d31a6be-2276-432f-bd47-ac8d962e84ae', //填写了会加载crisp
   currency: 'CNY', //货币符号
