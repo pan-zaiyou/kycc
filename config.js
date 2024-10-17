@@ -33,7 +33,6 @@ window.config = {
     ios: {
       download_url: '/articles/read?id=1',
       version: '2.2.56',
-      video: '/download/video/ios.mp4', //视频地址
     },
   },
 
