@@ -50,10 +50,10 @@ window.config = {
   // 知识库需要展示视频的知识库ID，和视频URL
   videoList: [
     {
-      id: 1, url: '/download/video/ios.mp4'
+      id: 1, url: ''
     },
     {
-      id: 6, url: '/download/video/ios.mp4'
+      id: 6, url: ''
     },
   ],
 }
