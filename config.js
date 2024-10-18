@@ -45,7 +45,7 @@ window.config = {
   giftCard: {
     open: 1, //0-关闭兑换码功能，1-开启
     title: '没有兑换码？直接订阅',
-    url: 'https://kycc.netlify.app/#/Purchase',
+    url: 'https://xn--uis736jbia41y.com/#/Purchase',
   },
   // 知识库需要展示视频的知识库ID，和视频URL
   videoList: [
