@@ -12,9 +12,6 @@ window.config = {
   telegram_discuss_link: 'https://t.me/Heycloud_official666', //TG频道
   is_telegram: 1, //1-开启TG绑定，0-关闭
   commission_withdraw_method: ['USDT'], //提现方式
-  cloudflare: {
-    siteKey:"",  //这个非空值,发送注册邮件会弹出Cloudflare Turnstile验证
-    // token:"",
   },
   // 客户端列表
   clients: {
